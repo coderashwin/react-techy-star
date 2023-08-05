@@ -1,2 +1,2 @@
 # react-techy-star
-I have created this project while I was learning React.  
+I have created this project while learning React.  
